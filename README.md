@@ -1,6 +1,6 @@
 # Angular Coffee Shop
 
-![Angular Build](https://github.com/cristhianprog/coffe-store/actions/workflows/angular.yml/badge.svg?branch=main)
+![Angular Build](https://github.com/cristhianprog/coffee-store/actions/workflows/angular.yml/badge.svg?branch=main)
 
 This is an online coffee store built with Angular that allows users to browse a list of products, add items to their shopping cart, modify quantities, remove products from the cart, and add new products to the product list.
 
